@@ -2,20 +2,23 @@ import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt 
 
-# Load the iris dataset
-iris = pd.read_csv('ML/iris.csv')  # Make sure the path and extension are correct
+file_path = r'C:\Users\shalu\Desktop\ML\ML-Python\Python\iris2.csv'
+iris = pd.read_csv(file_path)
 
-# Scatter plot: sepal_length vs sepal_width with color by species
+plt.figure(figsize=(10,6))
 sns.scatterplot(
-    x='sepal_length', 
-    y='sepal_width', 
-    hue='species', 
+    x='QUANTITYORDERED', 
+    y='SALES', 
+    hue='DEALSIZE', 
     data=iris,
-    palette='Set1'
+    palette='tab10',   
+    s=80,            
+    alpha=0.7
 )
 
-plt.title("Iris Dataset Scatter Plot")
-plt.xlabel("Sepal Length (cm)")
-plt.ylabel("Sepal Width (cm)")
-plt.legend(title='Species')
+plt.title("Sales vs Quantity Ordered (by Deal Size)")
+plt.xlabel("Quantity Ordered")
+plt.ylabel("Sales ($)")
+plt.legend(title='Deal Size', bbox_to_anchor=(1.05, 1), loc='upper left')
+plt.tight_layout()
 plt.show()

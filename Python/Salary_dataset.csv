@@ -1,31 +1,49 @@
-No,YearsExperience,Salary
-0,1.2000000000000002,39344.0
-1,1.4000000000000001,46206.0
-2,1.6,37732.0
-3,2.1,43526.0
-4,2.3000000000000003,39892.0
-5,3.0,56643.0
-6,3.1,60151.0
-7,3.3000000000000003,54446.0
-8,3.3000000000000003,64446.0
-9,3.8000000000000003,57190.0
-10,4.0,63219.0
-11,4.1,55795.0
-12,4.1,56958.0
-13,4.199999999999999,57082.0
-14,4.6,61112.0
-15,5.0,67939.0
-16,5.199999999999999,66030.0
-17,5.3999999999999995,83089.0
-18,6.0,81364.0
-19,6.1,93941.0
-20,6.8999999999999995,91739.0
-21,7.199999999999999,98274.0
-22,8.0,101303.0
-23,8.299999999999999,113813.0
-24,8.799999999999999,109432.0
-25,9.1,105583.0
-26,9.6,116970.0
-27,9.7,112636.0
-28,10.4,122392.0
-29,10.6,121873.0
+Rating,Company Name,Job Title,Salary,Salaries Reported,Location,Employment Status,Job Roles
+3.8,Sasken,Android Developer,400000,3,Bangalore,Full Time,Android
+4.5,Advanced Millennium Technologies,Android Developer,400000,3,Bangalore,Full Time,Android
+4,Unacademy,Android Developer,1000000,3,Bangalore,Full Time,Android
+3.8,SnapBizz Cloudtech,Android Developer,300000,3,Bangalore,Full Time,Android
+4.4,Appoids Tech Solutions,Android Developer,600000,3,Bangalore,Full Time,Android
+4.2,Freelancer,Android Developer,100000,3,Bangalore,Full Time,Android
+3.7,SQUARE N CUBE,Android Developer,192000,3,Bangalore,Full Time,Android
+3.1,Samsung R&D Institute India - Bangalore,Android Developer,400000,3,Bangalore,Full Time,Android
+3.7,DXMinds Technologies,Android Developer,300000,3,Bangalore,Full Time,Android
+3.6,Endeavour Software Technologies,Android Developer,600000,3,Bangalore,Full Time,Android
+3.6,Craft Silicon,Android Developer,300000,3,Bangalore,Full Time,Android
+3.9,Baronford & Associates,Android Developer,240000,2,Bangalore,Full Time,Android
+3.7,Wibmo,Android Developer,900000,2,Bangalore,Full Time,Android
+4.8,Retail Pulse,Android Developer - Intern,24000,2,Bangalore,Intern,Android
+3.9,Bookmyshow,Android Developer,600000,2,Bangalore,Full Time,Android
+3.9,Knowledge Flex,Android Developer,228000,2,Bangalore,Full Time,Android
+3.6,Novopay Solutions,Android Developer,600000,2,Bangalore,Full Time,Android
+3.7,WealthEngine,Android Developer,360000,2,Bangalore,Full Time,Android
+4,J.P. Morgan,Android Developer,1000000,2,Bangalore,Full Time,Android
+3.6,Acviss,Android Developer,500000,2,Bangalore,Full Time,Android
+4.1,Fresher,Android Developer,408000,2,Bangalore,Full Time,Android
+4.2,MedOnGo,Android Developer,300000,2,Bangalore,Full Time,Android
+4,Nuclei,Android Developer,800000,2,Bangalore,Full Time,Android
+4.4,eSecForte Technologies,Android Developer,228000,2,Bangalore,Full Time,Android
+4.3,Moveinsync Technology Solutions,Android Developer,100000,2,Bangalore,Full Time,Android
+3.6,Tech Mahindra,Android Developer,500000,2,Bangalore,Full Time,Android
+4,ThiDiff Technologies,Android Developer,200000,2,Bangalore,Full Time,Android
+4.9,Retranz Infolabs,Android Developer,500000,2,Bangalore,Full Time,Android
+4,FicusLot,Android Developer,228000,2,Bangalore,Full Time,Android
+3.7,KrazyBee,Android Developer,708000,2,Bangalore,Full Time,Android
+5,powerplay app,Android Developer - Intern,396000,2,Bangalore,Intern,Android
+4.2,Dcoder,Android Developer,700000,2,Bangalore,Full Time,Android
+4.6,Masai School,Android Developer,500000,2,Bangalore,Full Time,Android
+3.9,Integra Micro Software Services (P),Android Developer,500000,2,Bangalore,Full Time,Android
+3.3,DocsApp,Android Developer,900000,2,Bangalore,Full Time,Android
+5,Vispara Technosoft,Android Developer,200000,2,Bangalore,Full Time,Android
+4.3,Vmoksha Technologies,Android Developer,228000,2,Bangalore,Full Time,Android
+2.9,Artoo,Android Developer,400000,2,Bangalore,Full Time,Android
+3.8,Edelweiss Financial Services,Android Developer,600000,2,Bangalore,Full Time,Android
+4,Hubbler,Android Developer,400000,2,Bangalore,Full Time,Android
+3.5,L&T Technology Services,Android Developer,500000,2,Bangalore,Full Time,Android
+3,Rossitek Mobile Apps Development,Android Developer,216000,2,Bangalore,Full Time,Android
+1,Pricyfy,Android Developer,216000,2,Bangalore,Full Time,Android
+2.9,MYNEWCAR,Android Developer,300000,2,Bangalore,Full Time,Android
+4.1,IBM,Android Developer,540000,2,Bangalore,Full Time,Android
+3.7,Panel Coder Software Technologies,Android Developer,400000,2,Bangalore,Full Time,Android
+3.9,Knitter,Android Developer,500000,2,Bangalore,Full Time,Android
+3.8,3Embed Software Technologies,Android Developer,400000,2,Bangalore,Full Time,Android

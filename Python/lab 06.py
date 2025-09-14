@@ -1,24 +1,22 @@
 import numpy as np
 
-arr1 = np.array([5, 10, 15, 20, 25])
-arr2 = np.array([50, 250, 330, 410, 510])
+arr1 = np.array(list(map(int, input("\nEnter elements of Array 1 \n").split())))
 
-print("Array 1:", arr1)
-print("Array 2:", arr2)
+arr2 = np.array(list(map(int, input("\nEnter elements of Array 2\n ").split())))
 
-# Element-wise addition
-add_result = arr1 + arr2
-print("\n Addition:", add_result)
+print("\nArray 1:", arr1)
+print("\nArray 2:", arr2)
 
-# Element-wise multiplication
-mul_result = arr1 * arr2
-print("Multiplication:", mul_result)
+add = arr1 + arr2
+print("\nAddition:", add)
 
-# Compute statistics
-mean_val = np.mean(arr1)
-var_val = np.var(arr1)
-std_val = np.std(arr1)
+mul = arr1 * arr2
+print("\nMultiplication:", mul)
 
-print("\nMean of arr1:", mean_val)
-print("Variance of arr1:", var_val)
-print("Standard Deviation of arr1:", std_val)
+mean = np.mean(arr1)
+var = np.var(arr1)
+sd = np.std(arr1)
+
+print("\nMean of arr1:", mean)
+print("\nVariance of arr1:", var)
+print("\nStandard Deviation of arr1:", sd)
