@@ -1,0 +1,13 @@
+student_id,name,subject,marks,grade
+1,John Doe,Math,85,A
+2,Jane Smith,English,78,B
+3,Emily Johnson,Science,,A
+4,Michael Brown,History,67,C
+5,Jessica Davis,Math,90,B
+6,Daniel Wilson,English,73,C
+7,Sarah Miller,Science,95,A
+8,David Lee,History,60,D
+9,Laura Taylor,Math,80,B
+10,James Anderson,English,85,A
+11,Daniel Wilson,English,73,C
+12,Sarah Miller,Science,95,A
